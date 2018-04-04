@@ -1,0 +1,27 @@
+{
+  "name": "mean-stack-angular-2",
+  "version": "1.0.0",
+  "description": "MEAN Stack Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/2brams/mean-stack-angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "App"
+  ],
+  "author": "Abdel KHAKHA",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/2brams/mean-stack-angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12"
+  }
+}
